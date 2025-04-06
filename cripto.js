@@ -11,7 +11,7 @@
 
  * @author RAFAEL PERAZZO B MOTA
  * @date Date: 2025-03-30
- * @version 1.0 
+ * @version 1.0.1
  * 
  */
 var crypto = require('crypto');
@@ -104,6 +104,14 @@ async function verifyPassword(password, hash) {
     catch (err) {
         return false;
     }
+}
+
+/**
+ * Returns the author of the module.
+ * @returns {string} - The author of the module.
+ */
+function author() {
+    return 'RAFAEL PERAZZO B MOTA';
 }
 
 module.exports = {

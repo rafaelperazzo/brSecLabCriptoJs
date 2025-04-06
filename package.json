@@ -1,0 +1,22 @@
+{
+  "name": "brseclabcriptojs",
+  "version": "1.0.0",
+  "description": "Biblioteca para criptografar strings com AES-256-GCM",
+  "main": "cripto.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelperazzo/brSecLabCriptoJs.git"
+  },
+  "author": "Rafael Perazzo",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rafaelperazzo/brSecLabCriptoJs/issues"
+  },
+  "homepage": "https://github.com/rafaelperazzo/brSecLabCriptoJs#readme",
+  "dependencies": {
+    "argon2": "^0.41.1"
+  }
+}

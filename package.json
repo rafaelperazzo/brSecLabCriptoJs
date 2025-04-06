@@ -1,6 +1,6 @@
 {
   "name": "brseclabcriptojs",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Biblioteca para criptografar strings com AES-256-GCM",
   "main": "cripto.js",
   "scripts": {

@@ -7,4 +7,6 @@ npm login
 npm publish
 ```
 
-- Será solicitado uma senha no autenticador
+## Documentação
+
+Em construção

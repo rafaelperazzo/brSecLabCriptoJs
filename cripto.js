@@ -11,7 +11,7 @@
 
  * @author RAFAEL PERAZZO B MOTA
  * @date Date: 2025-03-30
- * @version 1.0.1
+ * @version 1.0.3
  * 
  */
 var crypto = require('crypto');
